@@ -1,7 +1,7 @@
 # as-you-study
 ## Timer App
 ### Description
-Take breaks according to the time you study. Prevent yourself from procrastination on important tasks.
+Take breaks according to the time you study. Prevent yourself from procrastinating on important tasks.
 
 <p float="left">
   <img src="screenshots/Screenshot_20220712-212313.png" width=300>
