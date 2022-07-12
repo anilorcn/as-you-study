@@ -1,5 +1,5 @@
-# as-you-study
-## Timer App
+# As You Study <img src="assets/icon.png" width=60>
+## Timer app made with Flutter
 ### Description
 Take breaks according to the time you study. Prevent yourself from procrastinating on important tasks.
 
